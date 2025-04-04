@@ -358,11 +358,13 @@ footer p {
     }
 }
 
+@media(max-width: 567px) {
+    br {
+        display: none;
+    }
+}
+
 @media(max-width: 425px) {
-    /* * {
-       
-        margin: 0 auto;
-    } */
 
     .hero-sec h4,
     .hero-sec h1,
