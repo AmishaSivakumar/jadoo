@@ -359,10 +359,10 @@ footer p {
 }
 
 @media(max-width: 425px) {
-    * {
-        /* text-align: center; */
+    /* * {
+       
         margin: 0 auto;
-    }
+    } */
 
     .hero-sec h4,
     .hero-sec h1,
